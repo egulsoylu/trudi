@@ -9,3 +9,5 @@ Number of Instances
 - Semi-trailers:
 - Text fields:
 - Legible identification numbers (IDs):
+
+The download link will be provided soon.
