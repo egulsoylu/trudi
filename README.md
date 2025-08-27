@@ -6,8 +6,9 @@ TRUDI is a densly annotated dataset consisting 733 images (35034 annotated insta
 Number of Instances
 - Containers:
 - Tank containers:
-- Semi-trailers:
+- Trailers:
+- Logos:
 - Text fields:
 - Legible identification numbers (IDs):
 
-The download link will be provided soon.
+The download link: https://cloud.uni-hamburg.de/s/82omXqGMLWF8T2c
