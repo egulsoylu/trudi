@@ -11,3 +11,18 @@ Number of Instances
 - Trailers: 2780
 - Logos: 14009
 - Text fields: 6328
+
+As a baseline, we created a three-stage transportation unit identification pipeline (TITUS): (1) segmenting TU instances (containers, tank containers, and trailers), (2) detecting their ID text area, (3) extracting the ID code from detected text areas and associating the extracted ID with the corresponding TU instance. The model weights for each stage are available in this link: https://cloud.uni-hamburg.de/s/MafTw9kEZ6AKtrz
+
+If you are using the TRUDI dataset and/or the TITUS pipeline please cite the following paper:
+```
+Gülsoylu, E., Kelm, A., Bengtson, L., Hirsch, M., Wilms, C., Rolff, T., Edinger, J. and Frintrop, S., 2025. TRUDI and TITUS: A Multi-Perspective Dataset and A Three-Stage Recognition System for Transportation Unit Identification. arXiv preprint arXiv:2508.02372.
+```
+```
+@article{gulsoylu2025trudi,
+  title={TRUDI and TITUS: A Multi-Perspective Dataset and A Three-Stage Recognition System for Transportation Unit Identification},
+  author={G{\"u}lsoylu, Emre and Kelm, Andr{\'e} and Bengtson, Lennart and Hirsch, Matthias and Wilms, Christian and Rolff, Tim and Edinger, Janick and Frintrop, Simone},
+  journal={arXiv preprint arXiv:2508.02372},
+  year={2025}
+}
+```
