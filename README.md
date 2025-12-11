@@ -1,6 +1,8 @@
 # TRUDI: TRansportation Unit Detection and Identification Dataset
 [![PWC](https://img.shields.io/badge/%F0%9F%93%8E%20arXiv-Paper-red)](https://arxiv.org/pdf/2508.02372)
 
+This repository contains the resources for the paper titled "[TRUDI and TITUS: A Multi-Perspective Dataset and A Three-Stage Recognition System for Transportation Unit Identification](https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1134/paper.pdf)" presented at The 36th British Machine Vision Conference (2025).
+
 The TRUDI dataset is the first publicly available dataset captured from both ground and aerial perspectives, designed for the detection and identification of transportation units (intermodal loading units) such as containers and trailers. This dataset was created as part of the [InteGreatDrones](integreatdrones.de) project, to advance the development and evaluation of object detection, text detection, and text recognition methods within the logistics sector.
 
 The download link: https://cloud.uni-hamburg.de/s/82omXqGMLWF8T2c
