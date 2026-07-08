@@ -28,7 +28,7 @@ As a baseline, we created a three-stage transportation unit identification pipel
 ## Citation
 If you use the TRUDI dataset and/or the TITUS pipeline please cite the following paper:
 ```
-E. G¨ulsoylu, A. Kelm, L. Bengtson, M. Hirsch, C. Wilms, T. Rolff, J. Edinger, S. Frintrop, TRUDI and TITUS: A Multi-Perspective Dataset and A Three-Stage Recognition System for Transportation Unit Identification, in: Proceedings of the 36th British Machine Vision Conference (BMVC), The British Machine Vision Association and Society for Pattern Recognition (BMVA), 2025, pp. 1–14.
+E. Gülsoylu, A. Kelm, L. Bengtson, M. Hirsch, C. Wilms, T. Rolff, J. Edinger, S. Frintrop, TRUDI and TITUS: A Multi-Perspective Dataset and A Three-Stage Recognition System for Transportation Unit Identification, in: Proceedings of the 36th British Machine Vision Conference (BMVC), The British Machine Vision Association and Society for Pattern Recognition (BMVA), 2025, pp. 1–14.
 ```
 ```
 @inproceedings{Gülsoylu_2025_BMVC,
