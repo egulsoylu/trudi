@@ -1,6 +1,4 @@
 # TRUDI: TRansportation Unit Detection and Identification Dataset
-[![PWC](https://img.shields.io/badge/%F0%9F%93%8E%20arXiv-Paper-red)](https://arxiv.org/pdf/2508.02372)
-
 This repository contains the resources for the paper titled "[TRUDI and TITUS: A Multi-Perspective Dataset and A Three-Stage Recognition System for Transportation Unit Identification](https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1134/paper.pdf)" presented at The 36th British Machine Vision Conference (2025).
 
 The TRUDI dataset is the first publicly available dataset captured from both ground and aerial perspectives, designed for the detection and identification of transportation units (intermodal loading units) such as containers and trailers. This dataset was created as part of the [InteGreatDrones](integreatdrones.de) project, to advance the development and evaluation of instance segmentarion, object detection, text detection, and text recognition methods within the logistics sector. 
@@ -33,13 +31,13 @@ If you use the TRUDI dataset and/or the TITUS pipeline please cite the following
 E. G¨ulsoylu, A. Kelm, L. Bengtson, M. Hirsch, C. Wilms, T. Rolff, J. Edinger, S. Frintrop, TRUDI and TITUS: A Multi-Perspective Dataset and A Three-Stage Recognition System for Transportation Unit Identification, in: Proceedings of the 36th British Machine Vision Conference (BMVC), The British Machine Vision Association and Society for Pattern Recognition (BMVA), 2025, pp. 1–14.
 ```
 ```
-@inproceedings{gulsoylu2025trudi,
-  title={{TRUDI and TITUS: A Multi-Perspective Dataset and A Three-Stage Recognition System for Transportation Unit Identification}},
-  author={G{\"u}lsoylu, Emre and Kelm, Andr{\'e} and Bengtson, Lennart and Hirsch, Matthias and Wilms, Christian and Rolff, Tim and Edinger, Janick and Frintrop, Simone},
-  booktitle={Proceedings of the 36th British Machine Vision Conference (BMVC)},
-  pages={1--14},
-  year={2025},
-  organization={The British Machine Vision Association and Society for Pattern Recognition (BMVA)}
+@inproceedings{Gülsoylu_2025_BMVC,
+author    = {Emre Gülsoylu and André Peter Kelm and Lennart Bengtson and Matthias Hirsch and Christian Wilms and Tim Rolff and Janick Edinger and Simone Frintrop},
+title     = {TRUDI and TITUS: A Multi-Perspective Dataset and A Three-Stage Recognition System for Transportation Unit Identification},
+booktitle = {36th British Machine Vision Conference 2025, {BMVC} 2025, Sheffield, UK, November 24-27, 2025},
+publisher = {BMVA},
+year      = {2025},
+url       = {https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1134/paper.pdf}
 }
 ```
 ## Licence
