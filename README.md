@@ -25,13 +25,16 @@ As a baseline, we created a three-stage transportation unit identification pipel
 
 If you use the TRUDI dataset and/or the TITUS pipeline please cite the following paper:
 ```
-Gülsoylu, E., Kelm, A., Bengtson, L., Hirsch, M., Wilms, C., Rolff, T., Edinger, J. and Frintrop, S., 2025. TRUDI and TITUS: A Multi-Perspective Dataset and A Three-Stage Recognition System for Transportation Unit Identification. arXiv preprint arXiv:2508.02372.
+E. G¨ulsoylu, A. Kelm, L. Bengtson, M. Hirsch, C. Wilms, T. Rolff, J. Edinger, S. Frintrop, TRUDI and TITUS: A Multi-Perspective Dataset and A Three-Stage Recognition System for Transportation Unit Identification, in: Proceedings of the 36th British Machine Vision Conference (BMVC), The British Machine Vision Association and Society for Pattern Recognition (BMVA), 2025, pp. 1–14.
 ```
 ```
-@article{gulsoylu2025trudi,
-  title={TRUDI and TITUS: A Multi-Perspective Dataset and A Three-Stage Recognition System for Transportation Unit Identification},
+@inproceedings{gulsoylu2025trudi,
+  title={{TRUDI and TITUS: A Multi-Perspective Dataset and A Three-Stage Recognition System for Transportation Unit Identification}},
   author={G{\"u}lsoylu, Emre and Kelm, Andr{\'e} and Bengtson, Lennart and Hirsch, Matthias and Wilms, Christian and Rolff, Tim and Edinger, Janick and Frintrop, Simone},
-  journal={arXiv preprint arXiv:2508.02372},
-  year={2025}
+  booktitle={Proceedings of the 36th British Machine Vision Conference (BMVC)},
+  pages={1--14},
+  year={2025},
+  organization={The British Machine Vision Association and Society for Pattern Recognition (BMVA)}
 }
 ```
+<a href="https://github.com/egulsoylu/trudi">TRansportation Unit Detection and Identification Dataset (TRUDI)</a> © 2025 by <a href="https://www.inf.uni-hamburg.de/en/inst/ab/cv/people/guelsoylu.html">Emre Gülsoylu</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
